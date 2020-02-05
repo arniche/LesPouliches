@@ -79,3 +79,12 @@ script {
     padding-left: 2vw;
     width: 46vw;
 }
+iframe {
+    display: flex;
+    margin-bottom: 20vh;
+    border: 1px solid black;
+    height: 500;
+    margin-right: 5vw;
+    margin-left: 5vw;
+    margin: 20px;
+}
